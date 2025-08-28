@@ -1,8 +1,16 @@
+<div align="center">
+  
 # Sheepla's React Template
 
-This is my template for single page application based on Vite+React+TypeScript template.
+</div>
 
-## Libs & Tools
+<div align="center">
+  
+My template SPA project based on Vite + React + TypeScript SWC template and shadcn/ui
+
+</div>
+
+## Dependencies
 
 - Build tool: [Vite](https://vite.dev)
 - CSS framework: [Tailwind CSS](https://github.com/tailwindcss/tailwindcss)
@@ -12,13 +20,13 @@ This is my template for single page application based on Vite+React+TypeScript t
 - Formatter: [Prettier](https://prettier.io)
 - Validation: [Zod](https://zod.dev)
 - Form state management: [React Hook Form](https://react-hook-form.com/)
-- Global state manageement: [Jotai](https://jotai.org/)
+- Routing: [React Router](https://reactrouter.com)
 
 <!--
 - Data grid: [AG Grid (Community Edition)](https://www.ag-grid.com/)
+- Global state manageement: [Jotai](https://jotai.org/)
 -->
 
-- Routing: [React Router](https://reactrouter.com)
 
 ## Shared components
 
