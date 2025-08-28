@@ -2,6 +2,8 @@
 
 This is my template for single page application based on Vite+React+TypeScript template.
 
+## Libs & Tools
+
 - Build tool: [Vite](https://vite.dev)
 - CSS framework: [Tailwind CSS](https://github.com/tailwindcss/tailwindcss)
 - UI toolkit: [shadcn/ui](https://ui.shadcn.com/)
@@ -20,9 +22,9 @@ This is my template for single page application based on Vite+React+TypeScript t
 
 ## Shared components
 
-- [x] `ThemeToggleButton`: icon button to swith dark mode
-- [x] `DynamicBreadcrumbs`: dynamic breadcrumbs integrated with React Router
-- [ ] `DataTable`: custom data table based on [shadcn/ui's Data Table](https://ui.shadcn.com/docs/components/data-table)
+- [x] 🌃 `ThemeToggleButton`: icon button to swith dark mode
+- [x] 🍞 `DynamicBreadcrumbs`: dynamic breadcrumbs integrated with React Router
+- [ ] 📊 `DataTable`: custom data table based on [shadcn/ui's Data Table](https://ui.shadcn.com/docs/components/data-table)
 
 ## Run
 
