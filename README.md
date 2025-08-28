@@ -28,10 +28,11 @@ My template SPA project based on Vite + React + TypeScript SWC template and shad
 - Global state manageement: [Jotai](https://jotai.org/)
 -->
 
-## Features
+## Features (WIP)
 
 - [ ] Flexible form UI with React Hook Form and Zod schema
 - [ ] Asynchronous data fetch with TanStack Query (a.k.a. React Query)
+- [ ] REST API client automatically generated from OpenAPI document
 
 ## Shared components (WIP)
 
