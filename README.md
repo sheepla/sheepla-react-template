@@ -21,14 +21,19 @@ My template SPA project based on Vite + React + TypeScript SWC template and shad
 - Validation: [Zod](https://zod.dev)
 - Form state management: [React Hook Form](https://react-hook-form.com/)
 - Routing: [React Router](https://reactrouter.com)
+- Data fetch state management: [TanStack Query a.k.a. React Query](https://tanstack.com/query/v4/docs/framework/react/guides/queries)
 
 <!--
 - Data grid: [AG Grid (Community Edition)](https://www.ag-grid.com/)
 - Global state manageement: [Jotai](https://jotai.org/)
 -->
 
+## Features
 
-## Shared components
+- [ ] Flexible form UI with React Hook Form and Zod schema
+- [ ] Asynchronous data fetch with TanStack Query (a.k.a. React Query)
+
+## Shared components (WIP)
 
 - [x] 🌃 `ThemeToggleButton`: icon button to swith dark mode
 - [x] 🍞 `DynamicBreadcrumbs`: dynamic breadcrumbs integrated with React Router
